@@ -12,13 +12,17 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1696963884,,"wq"
+|2,0,1702121126,,"wq"
 :Wq
-|2,0,1696963655,,"Wq"
+|2,0,1702121030,,"Wq"
 :q!
-|2,0,1696599376,,"q!"
+|2,0,1700783002,,"q!"
 :صض
-|2,0,1696599245,,"صض"
+|2,0,1700779667,,"صض"
+:Q!
+|2,0,1697390008,,"Q!"
+:ًض
+|2,0,1697384238,,"ًض"
 :'<,'>wq
 |2,0,1696357269,,"'<,'>wq"
 
@@ -32,940 +36,947 @@
 
 # Registers:
 ""-	CHAR	0
-	y
-|3,1,36,0,1,0,1696598744,"y"
+	e
+|3,1,36,0,1,0,1700784213,"e"
 
 # File marks:
-'0  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,48,45,0,1696963884,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
-'1  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
-|4,49,1,5,1696963856,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
-'2  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-|4,50,1,12,1696963837,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
-'3  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,51,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
-'4  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,52,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
-'5  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,53,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
-'6  48  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
-|4,54,48,0,1696963722,"~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c"
-'7  19  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c
-|4,55,19,0,1696963699,"~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c"
-'8  25  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/5-get_dnodeint.c
-|4,56,25,0,1696963657,"~/alx-low_level_programming/0x17-doubly_linked_lists/5-get_dnodeint.c"
-'9  20  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/4-free_dlistint.c
-|4,57,20,0,1696963638,"~/alx-low_level_programming/0x17-doubly_linked_lists/4-free_dlistint.c"
+'0  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,48,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+'1  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
+|4,49,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
+'2  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,50,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
+'3  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,51,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+'4  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,52,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+'5  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,53,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+'6  1570  18  ~/AirBnB_clone/tests/test_console.py
+|4,54,1570,18,1702120687,"~/AirBnB_clone/tests/test_console.py"
+'7  17  12  ~/AirBnB_clone/models/review.py
+|4,55,17,12,1702120520,"~/AirBnB_clone/models/review.py"
+'8  33  19  ~/AirBnB_clone/models/place.py
+|4,56,33,19,1702120497,"~/AirBnB_clone/models/place.py"
+'9  13  12  ~/AirBnB_clone/models/amenity.py
+|4,57,13,12,1702120468,"~/AirBnB_clone/models/amenity.py"
 
 # Jumplist (newest first):
--'  45  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,45,0,1696963884,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
-|4,39,1,0,1696963867,"~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c"
--'  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
-|4,39,1,5,1696963856,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
--'  1  5  ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
-|4,39,1,5,1696963856,"~/alx-low_level_programming/0x17-doubly_linked_lists/102-result"
--'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-|4,39,1,12,1696963837,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
--'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-|4,39,1,12,1696963837,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
--'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-|4,39,1,12,1696963837,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
--'  1  12  ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-|4,39,1,12,1696963837,"~/alx-low_level_programming/0x17-doubly_linked_lists/100-password"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  11  16  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,11,16,1696963782,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-|4,39,1,0,1696963776,"~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  31  15  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,31,15,1696963761,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-|4,39,1,0,1696963750,"~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  40  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,40,0,1696963740,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
--'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-|4,39,1,0,1696963734,"~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
+|4,39,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
+-'  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
+|4,39,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_state.py
+|4,39,1,0,1702121089,"~/AirBnB_clone/tests/test_models/test_state.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_state.py
+|4,39,1,0,1702121089,"~/AirBnB_clone/tests/test_models/test_state.py"
+-'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
+|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
+|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/103-keygen.c
-	*	1696963874	0
-	"	45	0
-	^	45	1
-	.	45	0
-	+	45	0
+> ~/AirBnB_clone/tests/test_models/test_user.py
+	*	1702121124	0
+	"	195	18
+	^	195	19
+	.	195	18
+	+	195	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/102-result
-	*	1696963854	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	5
+> ~/AirBnB_clone/tests/test_models/test_state.py
+	*	1702121099	0
+	"	189	18
+	^	189	19
+	.	189	18
+	+	189	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/100-password
-	*	1696963835	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
+> ~/AirBnB_clone/tests/test_models/test_review.py
+	*	1702121063	0
+	"	201	18
+	^	201	19
+	.	201	18
+	+	201	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/palindrome.py
-	*	1696963780	0
-	"	11	16
-	^	11	17
-	.	11	16
-	+	11	16
+> ~/AirBnB_clone/tests/test_models/test_place.py
+	*	1702121031	0
+	"	249	3
+	^	249	19
+	.	249	18
+	+	249	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/lists.h
-	*	1696963758	0
-	"	31	15
-	^	31	16
-	.	31	15
-	+	31	15
+> ~/AirBnB_clone/tests/test_models/test_city.py
+	*	1702120999	0
+	"	195	18
+	^	195	19
+	.	195	18
+	+	195	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/8-delete_dnodeint.c
-	*	1696963739	0
-	"	40	0
-	^	40	1
-	.	40	0
-	+	40	0
+> ~/AirBnB_clone/tests/test_models/test_amenity.py
+	*	1702120950	0
+	"	190	18
+	^	190	19
+	.	190	18
+	+	190	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/7-insert_dnodeint.c
-	*	1696963720	0
-	"	48	0
-	^	48	1
-	.	48	0
-	+	48	0
+> ~/AirBnB_clone/tests/test_console.py
+	*	1702120686	0
+	"	1570	18
+	^	1570	19
+	.	1570	18
+	+	1570	18
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/6-sum_dlistint.c
-	*	1696963678	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	19	0
+> ~/AirBnB_clone/models/review.py
+	*	1702120519	0
+	"	17	12
+	^	17	13
+	.	17	12
+	+	17	12
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/5-get_dnodeint.c
-	*	1696963655	0
-	"	25	0
-	^	25	1
-	.	25	0
-	+	25	0
+> ~/AirBnB_clone/models/place.py
+	*	1702120495	0
+	"	33	19
+	^	33	20
+	.	33	19
+	+	33	19
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/4-free_dlistint.c
-	*	1696963635	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
+> ~/AirBnB_clone/models/amenity.py
+	*	1702120467	0
+	"	13	12
+	^	13	13
+	.	13	12
+	+	13	12
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/3-add_dnodeint_end.c
-	*	1696963618	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
+> ~/AirBnB_clone/models/city.py
+	*	1702120439	0
+	"	15	12
+	^	15	13
+	.	15	12
+	+	15	12
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/2-add_dnodeint.c
-	*	1696963548	0
-	"	27	0
-	^	27	1
-	.	27	0
-	+	27	0
+> ~/AirBnB_clone/models/state.py
+	*	1702120409	0
+	"	13	12
+	^	13	13
+	.	13	12
+	+	13	12
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/1-dlistint_len.c
-	*	1696963526	0
-	"	16	0
-	^	16	1
-	.	16	0
-	+	16	0
+> ~/AirBnB_clone/models/engine/file_storage.py
+	*	1702120273	0
+	"	65	0
 
-> ~/alx-low_level_programming/0x17-doubly_linked_lists/0-print_dlistint.c
-	*	1696963507	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
+> ~/AirBnB_clone/models/user.py
+	*	1702120187	0
+	"	19	17
+	^	19	18
+	.	19	17
+	+	19	17
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
-	*	1696887763	0
-	"	70	0
-	^	70	1
-	.	70	0
-	+	70	0
+> ~/AirBnB_clone/models/base_model.py
+	*	1702120085	0
+	"	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/102-complex_delete.py
-	*	1696887738	0
-	"	9	24
-	^	9	25
-	.	9	24
-	+	9	24
+> ~/AirBnB_clone/models/__init__.py
+	*	1702120071	0
+	"	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/101-square_matrix_map.py
-	*	1696887722	0
-	"	3	69
-	^	3	70
-	.	3	69
-	+	3	69
+> ~/AirBnB_clone/models/engine/__init__.py
+	*	1702119997	0
+	"	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/100-weight_average.py
-	*	1696887700	0
-	"	13	21
-	^	13	22
-	.	13	21
-	+	13	21
+> ~/AirBnB_clone/AUTHORS
+	*	1702119944	0
+	"	5	21
+	^	5	22
+	.	5	21
+	+	5	37
+	+	6	36
+	+	5	21
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/10-best_score.py
-	*	1696887655	0
-	"	6	51
-	^	6	52
-	.	6	51
-	+	6	51
+> ~/AirBnB_clone/console.py
+	*	1702119389	0
+	"	210	26
+	^	210	27
+	.	210	26
+	+	210	26
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/9-multiply_by_2.py
-	*	1696887630	0
-	"	9	19
-	^	9	20
-	.	9	19
-	+	9	19
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/8-for_ls
+	*	1700784270	0
+	"	8	3
+	^	8	4
+	.	8	3
+	+	1	88
+	+	8	3
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/8-simple_delete.py
-	*	1696887601	0
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/7-clock
+	*	1700784238	0
+	"	18	3
+	^	18	4
+	.	18	3
+	+	1	305
+	+	18	3
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/6-superstitious_numbers
+	*	1700784195	0
+	"	18	3
+	^	18	4
+	.	18	3
+	+	1	114
+	+	1	211
+	+	1	234
+	+	1	334
+	+	1	370
+	+	1	389
+	+	18	3
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/5-4_bad_luck_8_is_your_chance
+	*	1700784145	0
+	"	20	3
+	^	20	4
+	.	20	3
+	+	1	53
+	+	1	122
+	+	1	161
+	+	1	259
+	+	1	282
+	+	1	324
+	+	20	3
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/4-if_9_say_hi
+	*	1700784068	0
+	"	12	3
+	^	12	4
+	.	12	3
+	+	1	19
+	+	1	1
+	+	1	58
+	+	1	0
+	+	12	3
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/3-until_best_school
+	*	1700783792	0
+	"	8	13
+	^	8	14
+	.	8	13
+	+	8	18
+	+	9	14
+	+	10	3
+	+	6	21
+	+	8	13
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/2-while_best_school
+	*	1700780417	0
+	"	9	10
+	^	9	11
+	.	9	10
+	+	10	3
+	+	4	5
+	+	6	23
+	+	6	25
+	+	8	25
+	+	6	23
+	+	7	2
+	+	8	18
+	+	9	10
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/1-for_best_school
+	*	1700779941	0
+	"	4	16
+	^	4	17
+	.	4	16
+	+	4	28
+	+	4	27
+	+	6	0
+	+	4	16
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
+	*	1700779667	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key
+	*	1700779354	0
+	"	1	0
+	^	1	0
+
+> ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/square.py
+	*	1700153843	0
+	"	49	40
+	^	49	41
+	.	49	40
+	+	49	40
+
+> ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/base.py
+	*	1700153207	0
+	"	128	19
+	^	128	21
+	.	128	20
+	+	128	20
+
+> ~/alx-higher_level_programming/0x0C-python-almost_a_circle/models/rectangle.py
+	*	1700152257	0
+	"	106	44
+	^	106	45
+	.	106	44
+	+	106	44
+
+> ~/alx-higher_level_programming/0x0C-python-almost_a_circle/15-main.py
+	*	1699554119	0
+	"	12	25
+	^	12	26
+	.	12	25
+	+	12	25
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/tests/101-main.py
+	*	1698786352	0
+	"	9	51
+	^	9	52
+	.	9	51
+	+	9	51
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/tests/100-main.py
+	*	1698786335	0
 	"	5	24
 	^	5	25
 	.	5	24
 	+	5	24
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/7-update_dictionary.py
-	*	1696887586	0
-	"	4	24
-	^	4	25
-	.	4	24
-	+	4	24
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/tests/19-main.py
+	*	1698786312	0
+	"	13	25
+	^	13	26
+	.	13	25
+	+	13	25
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/6-print_sorted_dictionary.py
-	*	1696887569	0
-	"	6	53
-	^	6	54
-	.	6	53
-	+	6	53
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/106-line5.txt
+	*	1698786233	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/5-number_keys.py
-	*	1696887551	0
-	"	9	15
-	^	9	16
-	.	9	15
-	+	9	15
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/106-line4.txt
+	*	1698786217	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/4-only_diff_elements.py
-	*	1696887536	0
-	"	3	25
-	^	3	26
-	.	3	25
-	+	3	25
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/106-line3.txt
+	*	1698786187	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/3-common_elements.py
-	*	1696887520	0
-	"	3	25
-	^	3	26
-	.	3	25
-	+	3	25
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/106-line2.txt
+	*	1698786057	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/2-uniq_add.py
-	*	1696887503	0
-	"	9	15
-	^	9	16
-	.	9	15
-	+	9	15
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/106-line1.txt
+	*	1698786040	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/1-search_replace.py
-	*	1696887483	0
-	"	4	20
-	^	4	21
-	.	4	20
-	+	4	20
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/105-line1.txt
+	*	1698786021	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
-> ~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py
-	*	1696887457	0
-	"	8	22
-	^	8	23
-	.	8	22
-	+	8	22
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/104-line5.txt
+	*	1698786001	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
-> ~/alx-higher_level_programming/0x02-python-import_modules/102-magic_calculation.py
-	*	1696611729	0
-	"	12	11
-	^	12	12
-	.	12	11
-	+	3	243
-	+	6	21
-	+	12	11
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/104-line4.txt
+	*	1698785983	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/100-print_python_list_info.c
-	*	1696599536	0
-	"	15	0
-	^	15	1
-	.	15	0
-	+	15	0
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/104-line3.txt
+	*	1698785961	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/lists.h
-	*	1696599498	0
-	"	29	19
-	^	29	20
-	.	29	19
-	+	29	19
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/104-line2.txt
+	*	1698785940	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/13-is_palindrome.c
-	*	1696599428	0
-	"	72	0
-	^	72	1
-	.	72	0
-	+	72	0
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/104-line1.txt
+	*	1698785918	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/13-is_palindrome.c,
-	*	1696599371	0
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/103-line2.txt
+	*	1698785900	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/103-line1.txt
+	*	1698785886	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/101-locked_class.py
+	*	1698785862	0
+	"	11	29
+	^	11	30
+	.	11	29
+	+	11	29
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/100-magic_string.py
+	*	1698785844	0
+	"	4	64
+	^	4	65
+	.	4	64
+	+	4	64
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/28-answer.txt
+	*	1698785807	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/27-answer.txt
+	*	1698785792	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/26-answer.txt
+	*	1698785774	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/25-answer.txt
+	*	1698785760	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/24-answer.txt
+	*	1698785721	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/23-answer.txt
+	*	1698785705	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/22-answer.txt
+	*	1698785545	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/21-answer.txt
+	*	1698785527	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/20-answer.txt
+	*	1698785503	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/19-copy_list.py
+	*	1698785483	0
+	"	3	18
+	^	3	19
+	.	3	18
+	+	3	18
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/18-answer.txt
+	*	1698785442	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/17-answer.txt
+	*	1698785327	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/16-answer.txt
+	*	1698785311	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/15-answer.txt
+	*	1698785293	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/14-answer.txt
+	*	1698785267	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/13-answer.txt
+	*	1698785248	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/12-answer.txt
+	*	1698785234	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/11-answer.txt
+	*	1698785217	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/10-answer.txt
+	*	1698785186	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/9-answer.txt
+	*	1698785163	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/8-answer.txt
+	*	1698785147	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/7-answer.txt
+	*	1698785125	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/6-answer.txt
+	*	1698785096	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/5-answer.txt
+	*	1698784984	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/4-answer.txt
+	*	1698784969	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/3-answer.txt
+	*	1698784952	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/2-answer.txt
+	*	1698784932	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/1-answer.txt
+	*	1698784897	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-higher_level_programming/0x09-python-everything_is_object/0-answer.txt
+	*	1698784769	0
+	"	1	3
+	^	1	4
+	.	1	4
+	+	1	4
+
+> ~/alx-higher_level_programming/0x08-python-more_classes/101-nqueens.py
+	*	1698705215	0
+	"	142	17
+	^	142	18
+	.	142	17
+	+	142	17
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/103-python.c
+	*	1698100775	0
 	"	1	0
 
-> ~/alx-higher_level_programming/0x03-python-data_structures/12-switch.py
-	*	1696599347	0
-	"	5	36
-	^	5	37
-	.	5	36
-	+	1	18
-	+	1	41
-	+	5	36
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/11-delete_at.py
-	*	1696599279	0
-	"	7	17
-	^	7	18
-	.	7	17
-	+	7	17
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/10-divisible_by_2.py
-	*	1696599245	0
-	"	9	18
-	^	9	19
-	.	9	18
-	+	9	18
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/9-max_integer.py
-	*	1696599169	0
-	"	10	17
-	^	10	18
-	.	10	17
-	+	10	17
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/8-multiple_returns.py
-	*	1696599134	0
-	"	8	18
-	^	8	19
-	.	8	18
-	+	8	18
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/7-add_tuple.py
-	*	1696599113	0
-	"	7	19
-	^	7	20
-	.	7	19
-	+	7	19
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/6-print_matrix_integer.py
-	*	1696598887	0
-	"	6	14
-	^	6	15
-	.	6	14
-	+	6	14
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/5-no_c.py
-	*	1696598836	0
-	"	4	20
-	^	4	21
-	.	4	20
-	+	4	20
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/4-new_in_list.py
-	*	1696598777	0
-	"	8	18
-	^	8	19
-	.	8	18
-	+	8	18
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/3-print_reversed_list_integer.py
-	*	1696598748	0
-	"	6	43
-	^	6	44
-	.	6	43
-	+	1	18
-	+	6	43
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/2-replace_in_list.py
-	*	1696598700	0
-	"	7	21
-	^	7	22
-	.	7	21
-	+	1	18
-	+	7	21
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/1-element_at.py
-	*	1696598460	0
-	"	6	26
-	^	6	27
-	.	6	26
-	+	6	26
-
-> ~/alx-higher_level_programming/0x03-python-data_structures/0-print_list_integer.py
-	*	1696598412	0
-	"	4	39
-	^	4	40
-	.	4	39
-	+	1	18
-	+	4	39
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/variable_load_5.py
-	*	1696358132	0
-	"	4	2
-	^	4	3
-	.	4	2
-	+	4	2
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/calculator_1.py
-	*	1696358116	0
-	"	52	20
-	^	52	21
-	.	52	20
-	+	52	20
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/add_0.py
-	*	1696358102	0
-	"	12	17
-	^	12	18
-	.	12	17
-	+	12	17
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/5-variable_load.py
-	*	1696358088	0
-	"	7	11
-	^	7	12
-	.	7	11
-	+	7	11
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/4-hidden_discovery.py
-	*	1696358073	0
-	"	10	22
-	^	10	23
-	.	10	22
-	+	10	22
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/3-infinite_add.py
-	*	1696358059	0
-	"	10	28
-	^	10	29
-	.	10	28
-	+	10	28
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/2-args.py
-	*	1696358044	0
-	"	15	53
-	^	15	54
-	.	15	53
-	+	15	53
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/103-fast_alphabet.py
-	*	1696358031	0
-	"	3	28
-	^	3	29
-	.	3	28
-	+	3	28
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/101-easy_print.py
-	*	1696357998	0
-	"	2	59
-	^	2	60
-	.	2	59
-	+	2	59
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/100-my_calculator.py
-	*	1696357984	0
-	"	19	75
-	^	19	76
-	.	19	75
-	+	19	75
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/1-calculation.py
-	*	1696357969	0
-	"	13	48
-	^	13	49
-	.	13	48
-	+	13	48
-
-> ~/alx-higher_level_programming/0x02-python-import_modules/0-add.py
-	*	1696357941	0
-	"	9	48
-	^	9	49
-	.	9	48
-	+	9	48
-
-> ~/alx-higher_level_programming/variable_load_5.py
-	*	1696357444	0
-	"	4	2
-	^	4	3
-	.	4	2
-	+	4	2
-
-> ~/alx-higher_level_programming/calculator_1.py
-	*	1696357420	0
-	"	52	20
-	^	52	21
-	.	52	20
-	+	52	20
-
-> ~/alx-higher_level_programming/add_0.py
-	*	1696357407	0
-	"	12	17
-	^	12	18
-	.	12	17
-	+	12	17
-
-> ~/alx-higher_level_programming/5-variable_load.py
-	*	1696357370	0
-	"	7	11
-	^	7	12
-	.	7	11
-	+	7	11
-
-> ~/alx-higher_level_programming/4-hidden_discovery.py
-	*	1696357353	0
-	"	10	22
-	^	10	23
-	.	10	22
-	+	10	22
-
-> ~/alx-higher_level_programming/3-infinite_add.py
-	*	1696357334	0
-	"	10	28
-	^	10	29
-	.	10	28
-	+	10	28
-
-> ~/alx-higher_level_programming/2-args.py
-	*	1696357319	0
-	"	15	53
-	^	15	54
-	.	15	53
-	+	15	53
-
-> ~/alx-higher_level_programming/103-fast_alphabet.py
-	*	1696357302	0
-	"	3	28
-	^	3	29
-	.	3	28
-	+	3	28
-
-> ~/alx-higher_level_programming/102-magic_calculation.py
-	*	1696357289	0
-	"	14	24
-	^	14	25
-	.	14	24
-	+	14	24
-
-> ~/alx-higher_level_programming/101-easy_print.py
-	*	1696357271	0
-	"	2	40
-	^	2	60
-	.	2	59
-	+	2	59
-
-> ~/alx-higher_level_programming/100-my_calculator.py
-	*	1696357251	0
-	"	19	75
-	^	19	76
-	.	19	75
-	+	19	75
-
-> ~/alx-higher_level_programming/1-calculation.py
-	*	1696357235	0
-	"	13	48
-	^	13	49
-	.	13	48
-	+	13	48
-
-> ~/alx-higher_level_programming/0-add.py
-	*	1696357219	0
-	"	9	48
-	^	9	49
-	.	9	48
-	+	9	48
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
-	*	1696339692	0
-	"	10	19
-	^	10	20
-	.	10	19
-	+	10	19
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
-	*	1696339668	0
-	"	7	31
-	^	7	32
-	.	7	31
-	+	7	31
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
-	*	1696339640	0
-	"	7	26
-	^	7	27
-	.	7	26
-	+	7	26
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/2-print_alphabet.py
-	*	1696339185	0
-	"	5	42
-	^	5	43
-	.	5	42
-	+	5	42
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/lists.h
-	*	1696338922	0
-	"	24	19
-	^	24	20
-	.	24	19
-	+	24	19
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
-	*	1696338902	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
-	*	1696338866	0
-	"	19	46
-	^	19	47
-	.	19	46
-	+	19	46
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py
-	*	1696338843	0
-	"	5	18
-	^	5	19
-	.	5	18
-	+	5	18
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py
-	*	1696338819	0
-	"	5	17
-	^	5	18
-	.	5	17
-	+	5	17
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py
-	*	1696338780	0
-	"	6	28
-	^	6	29
-	.	6	28
-	+	6	28
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/8-uppercase.py
-	*	1696338747	0
-	"	10	11
-	^	10	13
-	.	10	12
-	+	10	12
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/7-islower.py
-	*	1696338606	0
-	"	9	19
-	^	9	20
-	.	9	19
-	+	9	19
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/6-print_comb3.py
-	*	1696338579	0
-	"	9	57
-	^	9	58
-	.	9	57
-	+	9	57
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/5-print_comb2.py
-	*	1696338553	0
-	"	6	46
-	^	6	47
-	.	6	46
-	+	6	46
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/4-print_hexa.py
-	*	1696338513	0
-	"	6	47
-	^	6	48
-	.	6	47
-	+	6	47
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/3-print_alphabt.py
-	*	1696338487	0
-	"	5	46
-	^	5	47
-	.	5	46
-	+	5	46
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/1-last_digit.py
-	*	1696338287	0
-	"	13	33
-	^	13	34
-	.	13	33
-	+	13	33
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/0-positive_or_negative.py
-	*	1696338260	0
-	"	9	35
-	^	9	36
-	.	9	35
-	+	9	35
-
-> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/0x01-python-if_else_loops_functions
-	*	1696338213	0
-	"	9	35
-	^	9	36
-	.	9	35
-	+	9	35
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
-	*	1696336229	0
-	"	3	23
-	^	3	24
-	.	3	23
-	+	3	23
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/101-compile
-	*	1696336173	0
-	"	2	33
-	^	2	34
-	.	2	33
-	+	2	33
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/100-write.py
-	*	1696336083	0
-	"	4	10
-	^	4	11
-	.	4	10
-	+	4	10
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/10-check_cycle.c
-	*	1696335616	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/lists.h
-	*	1696335590	0
-	"	18	19
-	^	18	20
-	.	18	19
-	+	18	19
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
-	*	1696335548	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	2	10
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
-	*	1696335496	0
-	"	5	9
-	^	5	10
-	.	5	9
-	+	5	9
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
-	*	1696335339	0
-	"	8	43
-	^	8	44
-	.	8	43
-	+	8	43
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-	*	1696335312	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	1	11
-	+	2	7
+> ~/alx-higher_level_programming/0x05-python-exceptions/0-safe_print_list.py
+	*	1698099805	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/main.c
+	*	1697479288	0
+	"	8	0
+	^	8	0
+	.	7	1
+	+	7	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/5-strstr.c
+	*	1697479139	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/4-strpbrk.c
+	*	1697479078	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/3-strspn.c
+	*	1697479045	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/2-strchr.c
+	*	1697479028	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/1-memcpy.c
+	*	1697479009	0
+	"	11	0
+	^	11	0
+	.	11	0
+	+	4	18
+	+	11	0
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/0-memset.c
+	*	1697478980	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/2-strncpy.c
+	*	1697478890	0
+	"	1	16
+	^	1	17
+	.	1	17
+	+	10	1
 	+	1	17
-	+	2	57
-	+	3	0
-	+	2	7
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/3-strcmp.c
+	*	1697478871	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/1-strncat.c
+	*	1697478831	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/0-strcat.c
+	*	1697478810	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/100-atoi.c
+	*	1697478792	0
+	"	10	0
+	^	10	0
+	.	10	0
+	+	10	0
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/9-strcpy.c
+	*	1697478748	0
+	"	10	0
+	^	10	0
+	.	9	1
+	+	9	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/3-puts.c
+	*	1697478714	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/2-strlen.c
+	*	1697478691	0
+	"	10	0
+	^	10	0
+	.	9	1
+	+	1	16
+	+	1	133
+	+	9	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/1-isdigit.c
+	*	1697478622	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/0-isupper.c
+	*	1697478587	0
+	"	11	0
+	^	11	0
+	.	10	1
+	+	10	1
