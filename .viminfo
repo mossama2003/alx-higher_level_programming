@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702121126,,"wq"
+|2,0,1702155470,,"wq"
 :Wq
 |2,0,1702121030,,"Wq"
 :q!
@@ -40,230 +40,256 @@
 |3,1,36,0,1,0,1700784213,"e"
 
 # File marks:
-'0  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
-|4,48,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
-'1  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
-|4,49,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
-'2  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,50,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
-'3  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,51,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
-'4  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,52,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
-'5  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,53,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
-'6  1570  18  ~/AirBnB_clone/tests/test_console.py
-|4,54,1570,18,1702120687,"~/AirBnB_clone/tests/test_console.py"
-'7  17  12  ~/AirBnB_clone/models/review.py
-|4,55,17,12,1702120520,"~/AirBnB_clone/models/review.py"
-'8  33  19  ~/AirBnB_clone/models/place.py
-|4,56,33,19,1702120497,"~/AirBnB_clone/models/place.py"
-'9  13  12  ~/AirBnB_clone/models/amenity.py
-|4,57,13,12,1702120468,"~/AirBnB_clone/models/amenity.py"
+'0  4  0  ~/AirBnB_clone/AUTHORS
+|4,48,4,0,1702155470,"~/AirBnB_clone/AUTHORS"
+'1  4  0  ~/AirBnB_clone/AUTHORS
+|4,49,4,0,1702151848,"~/AirBnB_clone/AUTHORS"
+'2  219  26  ~/AirBnB_clone/console.py
+|4,50,219,26,1702150427,"~/AirBnB_clone/console.py"
+'3  210  26  ~/AirBnB_clone/console.py
+|4,51,210,26,1702149568,"~/AirBnB_clone/console.py"
+'4  210  26  ~/AirBnB_clone/console.py
+|4,52,210,26,1702149568,"~/AirBnB_clone/console.py"
+'5  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,53,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+'6  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,54,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+'7  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
+|4,55,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
+'8  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
+|4,56,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
+'9  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
+|4,57,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
 
 # Jumplist (newest first):
+-'  4  0  ~/AirBnB_clone/AUTHORS
+|4,39,4,0,1702155470,"~/AirBnB_clone/AUTHORS"
+-'  4  0  ~/AirBnB_clone/AUTHORS
+|4,39,4,0,1702151848,"~/AirBnB_clone/AUTHORS"
+-'  219  26  ~/AirBnB_clone/console.py
+|4,39,219,26,1702150427,"~/AirBnB_clone/console.py"
+-'  219  26  ~/AirBnB_clone/console.py
+|4,39,219,26,1702150427,"~/AirBnB_clone/console.py"
+-'  219  26  ~/AirBnB_clone/console.py
+|4,39,219,26,1702150427,"~/AirBnB_clone/console.py"
+-'  219  26  ~/AirBnB_clone/console.py
+|4,39,219,26,1702150427,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702150411,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702150411,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702150411,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702150411,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  210  26  ~/AirBnB_clone/console.py
+|4,39,210,26,1702149568,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702149553,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702149553,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702149553,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1702149553,"~/AirBnB_clone/console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1486  18  ~/AirBnB_clone/tests/test_console.py
+|4,39,1486,18,1702149377,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  1  0  ~/AirBnB_clone/tests/test_console.py
+|4,39,1,0,1702149330,"~/AirBnB_clone/tests/test_console.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
 -'  195  18  ~/AirBnB_clone/tests/test_models/test_user.py
 |4,39,195,18,1702121126,"~/AirBnB_clone/tests/test_models/test_user.py"
 -'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
 |4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
--'  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
-|4,39,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
--'  189  18  ~/AirBnB_clone/tests/test_models/test_state.py
-|4,39,189,18,1702121100,"~/AirBnB_clone/tests/test_models/test_state.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_state.py
-|4,39,1,0,1702121089,"~/AirBnB_clone/tests/test_models/test_state.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_state.py
-|4,39,1,0,1702121089,"~/AirBnB_clone/tests/test_models/test_state.py"
--'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  201  18  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,201,18,1702121064,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_review.py
-|4,39,1,0,1702121054,"~/AirBnB_clone/tests/test_models/test_review.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  249  3  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,249,3,1702121032,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_place.py
-|4,39,1,0,1702121026,"~/AirBnB_clone/tests/test_models/test_place.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  195  18  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,195,18,1702121000,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_city.py
-|4,39,1,0,1702120988,"~/AirBnB_clone/tests/test_models/test_city.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  190  18  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,190,18,1702120952,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
--'  1  0  ~/AirBnB_clone/tests/test_models/test_amenity.py
-|4,39,1,0,1702120935,"~/AirBnB_clone/tests/test_models/test_amenity.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
+-'  1  0  ~/AirBnB_clone/tests/test_models/test_user.py
+|4,39,1,0,1702121115,"~/AirBnB_clone/tests/test_models/test_user.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/AirBnB_clone/AUTHORS
+	*	1702155467	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	4	37
+	+	5	36
+	+	4	21
+	+	6	36
+	+	5	0
+
+> ~/AirBnB_clone/console.py
+	*	1702150424	0
+	"	219	26
+	^	219	27
+	.	219	26
+	+	210	26
+	+	219	26
+
+> ~/AirBnB_clone/tests/test_console.py
+	*	1702149376	0
+	"	1486	18
+	^	1570	19
+	.	1570	18
+	+	1570	18
 
 > ~/AirBnB_clone/tests/test_models/test_user.py
 	*	1702121124	0
@@ -306,13 +332,6 @@
 	^	190	19
 	.	190	18
 	+	190	18
-
-> ~/AirBnB_clone/tests/test_console.py
-	*	1702120686	0
-	"	1570	18
-	^	1570	19
-	.	1570	18
-	+	1570	18
 
 > ~/AirBnB_clone/models/review.py
 	*	1702120519	0
@@ -371,22 +390,6 @@
 > ~/AirBnB_clone/models/engine/__init__.py
 	*	1702119997	0
 	"	1	0
-
-> ~/AirBnB_clone/AUTHORS
-	*	1702119944	0
-	"	5	21
-	^	5	22
-	.	5	21
-	+	5	37
-	+	6	36
-	+	5	21
-
-> ~/AirBnB_clone/console.py
-	*	1702119389	0
-	"	210	26
-	^	210	27
-	.	210	26
-	+	210	26
 
 > ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/8-for_ls
 	*	1700784270	0
