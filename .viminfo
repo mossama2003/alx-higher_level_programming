@@ -10,25 +10,49 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/usr
+
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1705346326,,"wq"
-:صض
-|2,0,1705265305,,"صض"
-:Wq
-|2,0,1705265042,,"Wq"
+|2,0,1708115311,,"wq"
 :q!
-|2,0,1705264910,,"q!"
+|2,0,1708113318,,"q!"
+:WQ
+|2,0,1708056829,,"WQ"
+:Wq
+|2,0,1708056604,,"Wq"
+:set number
+|2,0,1707852550,,"set number"
+:صض
+|2,0,1706725756,,"صض"
+:'<,'>!/usr/bin/env bash
+|2,0,1706569602,,"'<,'>!/usr/bin/env bash"
+:q1
+|2,0,1706567881,,"q1"
+:ًض
+|2,0,1705967067,,"ًض"
+:set numbre
+|2,0,1705936817,,"set numbre"
+:q
+|2,0,1705929642,,"q"
 :Q
 |2,0,1702646530,,"Q"
 :Q!
 |2,0,1697390008,,"Q!"
-:ًض
-|2,0,1697384238,,"ًض"
 :'<,'>wq
 |2,0,1696357269,,"'<,'>wq"
 
 # Search String History (newest to oldest):
+?/usr/bin/python3
+|2,1,1708113098,47,"usr/bin/python3"
+? @$
+|2,1,1708056422,,"@$"
+?/usr/bin/env bash
+|2,1,1706625711,47,"usr/bin/env bash"
 
 # Expression History (newest to oldest):
 
@@ -37,6 +61,9 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	CHAR	0
+	l
+|3,1,0,0,1,0,1708056422,"l"
 "1	LINE	0
 	rder: 0;
 	    display: flex;
@@ -71,235 +98,780 @@
 	}
 |3,0,1,1,31,0,1702649724,"rder: 0;","    display: flex;","    flex-direction: column;","    padding-left: 30px;","}",".places h1{","    font-size: 30px;","}",".places_title{","    padding-top: 30px;","    margin-bottom: -25px;","}",".articles{","    display: flex;","    align-items: baseline;","    flex-wrap: wrap;","    justify-content: center;","}",".places article{","    width: 390px;","    margin: 20px;","    padding: 20px;",>32
 |<"    border: solid #FF5A5F 1px;","    border-radius: 4px;","    text-align: center;","    font-size: 30px;","}","article h2{","    font-size: 30px;","    margin-top: -2px;","}"
-""-	CHAR	0
-	"
-|3,1,36,0,1,0,1705274877,"\""
+"-	CHAR	0
+	l
+|3,0,36,0,1,0,1706817259,"l"
 
 # File marks:
-'0  1  10  ~/alx-system_engineering-devops/attack_is_the_best_defense/1-dictionary_attack
-|4,48,1,10,1705346326,"~/alx-system_engineering-devops/attack_is_the_best_defense/1-dictionary_attack"
-'1  1  14  ~/alx-system_engineering-devops/attack_is_the_best_defense/0-sniffing
-|4,49,1,14,1705346308,"~/alx-system_engineering-devops/attack_is_the_best_defense/0-sniffing"
-'2  1  0  ~/AirBnB_clone_v2/models/engine/file_storage.py
-|4,50,1,0,1705275792,"~/AirBnB_clone_v2/models/engine/file_storage.py"
-'3  273  0  ~/AirBnB_clone_v2/console.py
-|4,51,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
-'4  330  26  ~/AirBnB_clone_v2/console.py
-|4,52,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
-'5  330  26  ~/AirBnB_clone_v2/console.py
-|4,53,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
-'6  1  0  ~/AirBnB_clone_v2/console.py
-|4,54,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
-'7  1  0  ~/AirBnB_clone_v2/console.py
-|4,55,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
-'8  1  0  ~/AirBnB_clone_v2/console.py
-|4,56,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
-'9  1  0  ~/AirBnB_clone_v2/console.py
-|4,57,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
+'0  1  0  ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
+|4,48,1,0,1708115311,"~/AirBnB_clone_v2/web_flask/templates/7-states_list.html"
+'1  1  0  ~/AirBnB_clone_v2/web_flask/7-states_list.py
+|4,49,1,0,1708115038,"~/AirBnB_clone_v2/web_flask/7-states_list.py"
+'2  1  0  ~/AirBnB_clone_v2/main.py
+|4,50,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
+'3  36  0  ~/AirBnB_clone_v2/main.py
+|4,51,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+'4  36  0  ~/AirBnB_clone_v2/main.py
+|4,52,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+'5  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,53,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+'6  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,54,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+'7  42  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,55,42,0,1708056830,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+'8  36  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
+|4,56,36,0,1708056680,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
+'9  27  0  ~/AirBnB_clone_v2/web_flask/2-c_route.py
+|4,57,27,0,1708056605,"~/AirBnB_clone_v2/web_flask/2-c_route.py"
 
 # Jumplist (newest first):
--'  1  10  ~/alx-system_engineering-devops/attack_is_the_best_defense/1-dictionary_attack
-|4,39,1,10,1705346326,"~/alx-system_engineering-devops/attack_is_the_best_defense/1-dictionary_attack"
--'  1  14  ~/alx-system_engineering-devops/attack_is_the_best_defense/0-sniffing
-|4,39,1,14,1705346308,"~/alx-system_engineering-devops/attack_is_the_best_defense/0-sniffing"
--'  1  14  ~/alx-system_engineering-devops/attack_is_the_best_defense/0-sniffing
-|4,39,1,14,1705346308,"~/alx-system_engineering-devops/attack_is_the_best_defense/0-sniffing"
--'  1  0  ~/AirBnB_clone_v2/models/engine/file_storage.py
-|4,39,1,0,1705275792,"~/AirBnB_clone_v2/models/engine/file_storage.py"
--'  1  0  ~/AirBnB_clone_v2/models/engine/file_storage.py
-|4,39,1,0,1705275792,"~/AirBnB_clone_v2/models/engine/file_storage.py"
--'  1  0  ~/AirBnB_clone_v2/models/engine/file_storage.py
-|4,39,1,0,1705275792,"~/AirBnB_clone_v2/models/engine/file_storage.py"
--'  1  0  ~/AirBnB_clone_v2/models/engine/file_storage.py
-|4,39,1,0,1705275792,"~/AirBnB_clone_v2/models/engine/file_storage.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  273  0  ~/AirBnB_clone_v2/console.py
-|4,39,273,0,1705275362,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275327,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  330  26  ~/AirBnB_clone_v2/console.py
-|4,39,330,26,1705275119,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275097,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  1  0  ~/AirBnB_clone_v2/console.py
-|4,39,1,0,1705275077,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  178  217  ~/AirBnB_clone_v2/console.py
-|4,39,178,217,1705274804,"~/AirBnB_clone_v2/console.py"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
--'  5  33  ~/AirBnB_clone_v2/AUTHORS
-|4,39,5,33,1705274526,"~/AirBnB_clone_v2/AUTHORS"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
+|4,39,1,0,1708115311,"~/AirBnB_clone_v2/web_flask/templates/7-states_list.html"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/7-states_list.py
+|4,39,1,0,1708115038,"~/AirBnB_clone_v2/web_flask/7-states_list.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/7-states_list.py
+|4,39,1,0,1708115038,"~/AirBnB_clone_v2/web_flask/7-states_list.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  36  0  ~/AirBnB_clone_v2/main.py
+|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/main.py
+|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
+|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
+-'  42  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,42,0,1708056830,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
+	*	1708115310	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/web_flask/7-states_list.py
+	*	1708115037	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/main.py
+	*	1708113313	0
+	"	1	0
+	^	36	0
+	.	36	0
+	+	36	0
+
+> ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+	*	1708059788	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/AirBnB_clone_v2/web_flask/5-number_template.py
+	*	1708057243	0
+	"	48	0
+	^	48	0
+	.	48	0
+	+	48	0
+
+> ~/AirBnB_clone_v2/web_flask/4-number_route.py
+	*	1708056829	0
+	"	42	0
+	^	42	0
+	.	42	0
+	+	42	0
+
+> ~/AirBnB_clone_v2/web_flask/3-python_route.py
+	*	1708056678	0
+	"	36	0
+	^	36	0
+	.	36	0
+	+	36	0
+
+> ~/AirBnB_clone_v2/web_flask/2-c_route.py
+	*	1708056604	0
+	"	27	0
+	^	27	0
+	.	27	0
+	+	27	0
+
+> ~/AirBnB_clone_v2/web_flask/1-hbnb_route.py
+	*	1708056517	0
+	"	21	0
+	^	21	0
+	.	21	0
+	+	21	0
+
+> ~/AirBnB_clone_v2/web_flask/10-hbnb_filters.py
+	*	1708056424	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/web_flask/0-hello_route.py
+	*	1708029256	0
+	"	15	0
+	^	15	0
+	.	15	0
+	+	15	0
+
+> ~/alx-system_engineering-devops/.git/MERGE_MSG
+	*	1707877949	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x14-mysql/4-mysql_configuration_replica
+	*	1707852553	0
+	"	20	48
+
+> ~/alx-system_engineering-devops/0x14-mysql/4-mysql_configuration_primary
+	*	1707852508	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	19	29
+	+	1	1
+	+	2	10
+
+> ~/alx-system_engineering-devops/0x13-firewall/100-port_forwarding
+	*	1707788077	0
+	"	78	5
+	^	78	6
+	.	78	0
+	+	38	1393
+	+	38	9
+	+	78	0
+
+> ~/alx-system_engineering-devops/0x13-firewall/0-block_all_incoming_traffic_but
+	*	1707786100	0
+	"	12	22
+	^	12	23
+	.	12	22
+	+	4	0
+	+	3	38
+	+	4	0
+	+	5	24
+	+	11	15
+	+	12	22
+
+> ~/alx-system_engineering-devops/0x10-https_ssl/1-haproxy_ssl_termination
+	*	1706817318	0
+	"	51	11
+	^	51	12
+	.	36	11
+	+	46	38
+	+	50	40
+	+	51	41
+	+	46	26
+	+	44	48
+	+	41	26
+	+	51	20
+	+	50	20
+	+	48	10
+	+	43	11
+	+	36	11
+
+> ~/alx-system_engineering-devops/0x10-https_ssl/100-redirect_http_to_https
+	*	1706817294	0
+	"	51	11
+	^	51	12
+	.	36	11
+	+	46	38
+	+	50	40
+	+	51	20
+	+	50	20
+	+	48	10
+	+	46	26
+	+	44	48
+	+	41	26
+	+	43	11
+	+	36	11
+
+> ~/alx-system_engineering-devops/0x10-https_ssl/0-world_wide_web
+	*	1706804970	0
+	"	26	1
+	^	26	2
+	.	26	1
+	+	1	524
+	+	1	743
+	+	26	1
+
+> ~/Fix_My_Code_Challenge/README.md
+	*	1706735747	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Fix_My_Code_Challenge/0x01-challenge/README.md
+	*	1706735411	0
+	"	22	21
+	^	22	22
+	.	22	21
+	+	22	21
+
+> ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/0-nginx_likes_port_80
+	*	1706732221	0
+	"	7	0
+	^	7	0
+	.	6	21
+	+	1	212
+	+	1	153
+	+	6	21
+
+> ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/1
+	*	1706732017	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/100-clean_web_static.py
+	*	1706728811	0
+	"	91	26
+	^	91	27
+	.	91	26
+	+	97	23
+	+	29	55
+	+	30	55
+	+	91	26
+
+> ~/AirBnB_clone_v2/3-deploy_web_static.py
+	*	1706727370	0
+	"	76	25
+	^	76	26
+	.	76	25
+	+	51	34
+	+	75	25
+	+	76	25
+
+> ~/AirBnB_clone_v2/2-do_deploy_web_static.py
+	*	1706727161	0
+	"	49	14
+	^	49	15
+	.	49	14
+	+	33	24
+	+	56	18
+	+	49	14
+
+> ~/AirBnB_clone_v2/1-pack_web_static.py
+	*	1706725758	0
+	"	19	18
+	^	19	19
+	.	19	18
+	+	23	15
+	+	18	65
+	+	19	66
+	+	19	18
+
+> ~/AirBnB_clone_v2/101-setup_web_static.pp
+	*	1706722615	0
+	"	29	0
+	^	29	0
+	.	28	1
+	+	28	1
+
+> ~/AirBnB_clone_v2/.git/MERGE_MSG
+	*	1706722387	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/AirBnB_clone_v2/transfer
+	*	1706720717	0
+	"	10	1
+	^	10	2
+	.	10	1
+	+	10	1
+
+> ~/alx-system_engineering-devops/0x0B-ssh/web-02
+	*	1706628382	0
+	"	3	39
+	^	3	40
+	.	3	39
+	+	3	39
+
+> ~/alx-system_engineering-devops/0x0B-ssh/web-01
+	*	1706628373	0
+	"	3	39
+	^	3	40
+	.	3	39
+	+	11	24
+	+	3	39
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/0-custom_http_response_header
+	*	1706627522	0
+	"	10	85
+	^	10	86
+	.	10	85
+	+	1	632
+	+	1	4
+	+	1	247
+	+	1	348
+	+	1	222
+	+	1	1233
+	+	26	25
+	+	10	85
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/1-install_load_balancer
+	*	1706627302	0
+	"	12	28
+	^	12	29
+	.	12	28
+	+	20	27
+	+	2	20
+	+	5	34
+	+	8	42
+	+	9	20
+	+	8	20
+	+	6	18
+	+	71	1
+	+	7	16
+	+	8	16
+	+	7	38
+	+	8	36
+	+	1	205
+	+	1	169
+	+	1	210
+	+	1	120
+	+	14	23
+	+	11	27
+	+	12	28
+
+> /usr/bin/bash
+	*	1706627208	0
+	"	1	0
+
+> ~/monty.git
+	*	1706627159	0
+	"	3	0
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/lb-01
+	*	1706625912	0
+	"	10	23
+	^	10	24
+	.	10	23
+	+	10	23
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/web-02
+	*	1706623384	0
+	"	11	23
+	^	11	24
+	.	12	0
+	+	1	0
+	+	11	24
+	+	12	0
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/web-01
+	*	1706623366	0
+	"	11	22
+	^	11	23
+	.	11	22
+	+	11	22
+
+> ~/alx-system_engineering-devops/0x0C-web_server/web-01
+	*	1706618536	0
+	"	7	24
+	^	7	25
+	.	7	19
+	+	11	24
+	+	3	19
+	+	7	19
+
+> ~/alx-system_engineering-devops/0x0B-ssh/0-use_a_private_key
+	*	1706618005	0
+	"	3	41
+	^	3	42
+	.	3	42
+	+	3	42
+
+> ~/alx-system_engineering-devops/0x0C-web_server/0-transfer_file
+	*	1706584298	0
+	"	10	0
+	^	10	1
+	.	10	1
+	+	10	1
+
+> ~/alx-system_engineering-devops/0x0B-ssh/lb-01
+	*	1706579359	0
+	"	3	40
+	^	3	41
+	.	3	40
+	+	1	23
+	+	10	23
+	+	3	40
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/2-puppet_custom_http_response_header.pp
+	*	1706571869	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x0C-web_server/7-puppet_install_nginx_web_server.pp
+	*	1706571627	0
+	"	11	68
+	^	11	69
+	.	11	68
+	+	21	0
+	+	11	68
+
+> ~/alx-system_engineering-devops/0x0B-ssh/4-not_found_page_404
+	*	1706571516	0
+	"	12	85
+	^	12	86
+	.	12	85
+	+	25	25
+	+	12	85
+
+> ~/alx-system_engineering-devops/0x0F-load_balancer/wib-01
+	*	1706542611	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x0E-web_stack_debugging_1/README.md
+	*	1706362096	0
+	"	1	0
+
+> ~/alx-higher_level_programming/0x11-python-network_1/6-post_email.py
+	*	1706303018	0
+	"	1	0
+	^	1	0
+
+> ~/alx-higher_level_programming/0x10-python-network_0/6-peak.py
+	*	1706203597	0
+	"	10	14
+	^	10	15
+	.	10	14
+	+	1	599
+	+	10	14
+
+> ~/alx-higher_level_programming/0x10-python-network_0/6-peak.txt
+	*	1706203518	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	9
+	+	1	8
+
+> ~/alx-higher_level_programming/0x10-python-network_0/4-header.sh
+	*	1706201028	0
+	"	3	35
+	^	3	36
+	.	3	35
+	+	3	35
+
+> ~/alx-system_engineering-devops/0x0C-web_server/2-setup_a_domain_name
+	*	1705968383	0
+	"	2	0
+	^	1	8
+	.	1	8
+	+	1	8
+	a	1	0
+
+> ~/alx-system_engineering-devops/0x0C-web_server/3-redirection
+	*	1705953602	0
+	"	12	97
+	^	12	98
+	.	12	97
+	+	16	25
+	+	12	97
+
+> ~/alx-system_engineering-devops/0x0C-web_server/setup-nginx
+	*	1705932406	0
+	"	39	23
+	^	39	24
+	.	39	23
+	+	39	23
+
+> ~/alx-system_engineering-devops/0x0C-web_server/4-not_found_page_404
+	*	1705932091	0
+	"	39	23
+	^	39	24
+	.	39	23
+	+	39	23
+
+> ~/alx-system_engineering-devops/0x0C-web_server/1-install_nginx_web_server
+	*	1705931915	0
+	"	32	27
+	^	32	28
+	.	32	27
+	+	32	27
+
+> ~/alx-system_engineering-devops/0x0D-web_stack_debugging_0/0-give_me_a_page
+	*	1705929737	0
+	"	4	20
+	^	4	21
+	.	4	20
+	+	4	20
+
+> ~/alx-system_engineering-devops/0-give_me_a_page
+	*	1705929653	0
+	"	4	20
+	^	4	21
+	.	4	20
+	+	4	20
+
+> ~/alx-system_engineering-devops/0x0B-ssh/web01
+	*	1705798282	0
+	"	1	0
+
+> ~/.ssh/id_rsa.pub
+	*	1705797859	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x0B-ssh/1-create_ssh_key_pair
+	*	1705797115	0
+	"	3	36
+	^	3	37
+	.	3	36
+	+	1	48
+	+	1	19
+	+	1	48
+	+	1	76
+	+	3	36
+
+> ~/.ssh/authorized_keys
+	*	1705796234	0
+	"	2	379
+	^	2	380
+	.	2	380
+	+	1	379
+	+	1	0
+	+	2	380
+
+> ~/alx-system_engineering-devops/0x0B-ssh/2-ssh_config
+	*	1705795787	0
+	"	10	32
+	^	10	33
+	.	10	32
+	+	10	32
+
+> ~/alx-system_engineering-devops/0x0B-ssh/known_hosts
+	*	1705795631	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x0A-configuration_management/1-install_a_package.pp
+	*	1705693744	0
+	"	18	34
+	^	18	35
+	.	18	34
+	+	1	71
+	+	15	0
+	+	1	45
+	+	19	0
+	+	4	0
+	+	3	0
+	+	2	8
+	+	5	0
+	+	6	18
+	+	9	31
+	+	10	18
+	+	11	0
+	+	10	0
+	+	12	34
+	+	15	34
+	+	16	18
+	+	17	58
+	+	16	2
+	+	17	0
+	+	16	0
+	+	18	0
+	+	15	3
+	+	9	3
+	+	12	12
+	+	18	34
+
+> ~/alx-system_engineering-devops/0x0A-configuration_management/2-execute_a_command.pp
+	*	1705683480	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/AUTHORS
+	*	1705417966	0
+	"	5	34
+	^	5	35
+	.	5	33
+	+	1	213
+	+	1	204
+	+	1	171
+	+	4	41
+	+	1	0
+	+	2	0
+	+	5	33
 
 > ~/alx-system_engineering-devops/attack_is_the_best_defense/1-dictionary_attack
 	*	1705346324	0
@@ -338,14 +910,6 @@
 	+	330	26
 	+	272	27
 
-> ~/AirBnB_clone_v2/AUTHORS
-	*	1705274519	0
-	"	5	33
-	^	5	34
-	.	5	34
-	+	5	42
-	+	5	34
-
 > ~/AirBnB_clone_v2/test_console-main.py
 	*	1705267543	0
 	"	166	57
@@ -370,10 +934,6 @@
 	+	35	10
 	+	5	64
 	+	20	16
-
-> ~/AirBnB_clone_v2/.git/MERGE_MSG
-	*	1705266906	0
-	"	1	0
 
 > ~/AirBnB_clone_v2/models/user.py
 	*	1705266562	0
@@ -551,489 +1111,3 @@
 	^	357	7
 	.	357	6
 	+	357	6
-
-> ~/AirBnB_clone/web_static/102-index.html
-	*	1702649887	0
-	"	357	6
-	^	357	7
-	.	357	6
-	+	357	6
-
-> ~/AirBnB_clone/web_static/101-index.html
-	*	1702649858	0
-	"	184	6
-	^	184	7
-	.	184	6
-	+	184	6
-
-> ~/AirBnB_clone/web_static/100-index.html
-	*	1702649827	0
-	"	184	6
-	^	184	7
-	.	184	6
-	+	184	6
-
-> ~/AirBnB_clone/web_static/styles/8-places.css
-	*	1702649751	0
-	"	139	0
-	^	139	1
-	.	139	0
-	+	139	0
-
-> ~/AirBnB_clone/web_static/styles/.places{
-	*	1702649727	0
-	"	139	0
-	^	139	1
-	.	139	0
-	+	2	10
-	+	139	0
-
-> ~/AirBnB_clone/web_static/8-index.html
-	*	1702649696	0
-	"	203	6
-	^	203	7
-	.	203	6
-	+	203	6
-
-> ~/AirBnB_clone/web_static/styles/7-places.css
-	*	1702649632	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/AirBnB_clone/web_static/7-index.html
-	*	1702649553	0
-	"	72	6
-	^	72	7
-	.	72	6
-	+	72	6
-
-> ~/AirBnB_clone/web_static/styles/6-filters.css
-	*	1702649516	0
-	"	91	0
-	^	91	1
-	.	91	0
-	+	91	0
-
-> ~/AirBnB_clone/web_static/6-index.html
-	*	1702649457	0
-	"	54	6
-	^	54	7
-	.	54	6
-	+	54	6
-
-> ~/AirBnB_clone/web_static/styles/6-index.html
-	*	1702649430	0
-	"	1	0
-
-> ~/AirBnB_clone/web_static/styles/5-filters.css
-	*	1702649392	0
-	"	51	0
-	^	51	1
-	.	51	0
-	+	51	0
-
-> ~/AirBnB_clone/web_static/5-index.html
-	*	1702649338	0
-	"	32	6
-	^	32	7
-	.	32	6
-	+	32	6
-
-> ~/AirBnB_clone/web_static/styles/4-filters.css
-	*	1702649280	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
-
-> ~/AirBnB_clone/web_static/styles/4-common.css
-	*	1702649232	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
-
-> ~/AirBnB_clone/web_static/4-index.html
-	*	1702649189	0
-	"	24	6
-	^	24	7
-	.	24	6
-	+	24	6
-
-> ~/AirBnB_clone/web_static/styles/3-header.css
-	*	1702648765	0
-	"	15	0
-	^	15	1
-	.	15	0
-	+	15	0
-
-> ~/AirBnB_clone/web_static/styles/3-footer.css
-	*	1702648741	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
-
-> ~/AirBnB_clone/web_static/styles/3-common.css
-	*	1702648706	0
-	"	8	0
-	^	8	1
-	.	8	0
-	+	8	0
-
-> ~/AirBnB_clone/web_static/3-index.html
-	*	1702648671	0
-	"	19	6
-	^	19	7
-	.	19	6
-	+	19	6
-
-> ~/AirBnB_clone/web_static/styles/2-footer.css
-	*	1702648588	0
-	"	9	0
-	^	9	1
-	.	9	0
-	+	9	0
-
-> ~/AirBnB_clone/web_static/styles/2-header.css
-	*	1702648560	0
-	"	5	0
-	^	5	1
-	.	5	0
-	+	5	0
-
-> ~/AirBnB_clone/web_static/styles/2-common.css
-	*	1702648532	0
-	"	4	0
-	^	4	1
-	.	4	0
-	+	4	0
-
-> ~/AirBnB_clone/web_static/2-index.html
-	*	1702648435	0
-	"	16	6
-	^	16	7
-	.	16	6
-	+	16	6
-
-> ~/AirBnB_clone/web_static/1-index.html
-	*	1702648394	0
-	"	29	6
-	^	29	7
-	.	29	6
-	+	1	15
-	+	29	6
-
-> ~/AirBnB_clone/web_static/0-index.html
-	*	1702648350	0
-	"	13	6
-	^	13	7
-	.	13	6
-	+	1	1
-	+	13	6
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/main.c
-	*	1702327059	0
-	"	69	0
-	^	69	1
-	.	69	0
-	+	63	161
-	+	63	13
-	+	69	0
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/lists.h
-	*	1702326931	0
-	"	27	5
-	^	27	6
-	.	27	5
-	+	27	5
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/print_dlistint.c
-	*	1702326526	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/add_dnodeint_end.c
-	*	1702326503	0
-	"	39	0
-	^	39	1
-	.	39	0
-	+	39	0
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/delete_dnodeint_at_index.c
-	*	1702326468	0
-	"	53	0
-	^	53	1
-	.	53	0
-	+	53	0
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/free_dlistint.c
-	*	1702326431	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/4-delete_dnodeint/list.h
-	*	1702326399	0
-	"	27	5
-	^	27	6
-	.	27	5
-	+	27	5
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/3-user.py
-	*	1702326325	0
-	"	103	7
-	^	103	8
-	.	103	7
-	+	103	7
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/2-sort.rb
-	*	1702326302	0
-	"	31	10
-	^	31	11
-	.	31	10
-	+	31	10
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/1-print_square.js
-	*	1702326245	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/Fix_My_Code_Challenge/0x00-challenge/0-fizzbuzz.py
-	*	1702326211	0
-	"	40	19
-	^	40	20
-	.	40	19
-	+	40	19
-
-> ~/AirBnB_clone/tests/test_console.py
-	*	1702158946	0
-	"	1570	18
-	^	1570	19
-	.	1570	18
-	+	1570	18
-
-> ~/AirBnB_clone/AUTHORS
-	*	1702158338	0
-	"	6	36
-	^	6	37
-	.	6	36
-	+	4	37
-	+	5	36
-	+	4	21
-	+	6	36
-	+	5	0
-	+	6	36
-
-> ~/AirBnB_clone/console.py
-	*	1702150424	0
-	"	219	26
-	^	219	27
-	.	219	26
-	+	210	26
-	+	219	26
-
-> ~/AirBnB_clone/tests/test_models/test_user.py
-	*	1702121124	0
-	"	195	18
-	^	195	19
-	.	195	18
-	+	195	18
-
-> ~/AirBnB_clone/tests/test_models/test_state.py
-	*	1702121099	0
-	"	189	18
-	^	189	19
-	.	189	18
-	+	189	18
-
-> ~/AirBnB_clone/tests/test_models/test_review.py
-	*	1702121063	0
-	"	201	18
-	^	201	19
-	.	201	18
-	+	201	18
-
-> ~/AirBnB_clone/tests/test_models/test_place.py
-	*	1702121031	0
-	"	249	3
-	^	249	19
-	.	249	18
-	+	249	18
-
-> ~/AirBnB_clone/tests/test_models/test_city.py
-	*	1702120999	0
-	"	195	18
-	^	195	19
-	.	195	18
-	+	195	18
-
-> ~/AirBnB_clone/tests/test_models/test_amenity.py
-	*	1702120950	0
-	"	190	18
-	^	190	19
-	.	190	18
-	+	190	18
-
-> ~/AirBnB_clone/models/review.py
-	*	1702120519	0
-	"	17	12
-	^	17	13
-	.	17	12
-	+	17	12
-
-> ~/AirBnB_clone/models/place.py
-	*	1702120495	0
-	"	33	19
-	^	33	20
-	.	33	19
-	+	33	19
-
-> ~/AirBnB_clone/models/amenity.py
-	*	1702120467	0
-	"	13	12
-	^	13	13
-	.	13	12
-	+	13	12
-
-> ~/AirBnB_clone/models/city.py
-	*	1702120439	0
-	"	15	12
-	^	15	13
-	.	15	12
-	+	15	12
-
-> ~/AirBnB_clone/models/state.py
-	*	1702120409	0
-	"	13	12
-	^	13	13
-	.	13	12
-	+	13	12
-
-> ~/AirBnB_clone/models/engine/file_storage.py
-	*	1702120273	0
-	"	65	0
-
-> ~/AirBnB_clone/models/user.py
-	*	1702120187	0
-	"	19	17
-	^	19	18
-	.	19	17
-	+	19	17
-
-> ~/AirBnB_clone/models/base_model.py
-	*	1702120085	0
-	"	1	0
-
-> ~/AirBnB_clone/models/__init__.py
-	*	1702120071	0
-	"	1	0
-
-> ~/AirBnB_clone/models/engine/__init__.py
-	*	1702119997	0
-	"	1	0
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/8-for_ls
-	*	1700784270	0
-	"	8	3
-	^	8	4
-	.	8	3
-	+	1	88
-	+	8	3
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/7-clock
-	*	1700784238	0
-	"	18	3
-	^	18	4
-	.	18	3
-	+	1	305
-	+	18	3
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/6-superstitious_numbers
-	*	1700784195	0
-	"	18	3
-	^	18	4
-	.	18	3
-	+	1	114
-	+	1	211
-	+	1	234
-	+	1	334
-	+	1	370
-	+	1	389
-	+	18	3
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/5-4_bad_luck_8_is_your_chance
-	*	1700784145	0
-	"	20	3
-	^	20	4
-	.	20	3
-	+	1	53
-	+	1	122
-	+	1	161
-	+	1	259
-	+	1	282
-	+	1	324
-	+	20	3
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/4-if_9_say_hi
-	*	1700784068	0
-	"	12	3
-	^	12	4
-	.	12	3
-	+	1	19
-	+	1	1
-	+	1	58
-	+	1	0
-	+	12	3
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/3-until_best_school
-	*	1700783792	0
-	"	8	13
-	^	8	14
-	.	8	13
-	+	8	18
-	+	9	14
-	+	10	3
-	+	6	21
-	+	8	13
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/2-while_best_school
-	*	1700780417	0
-	"	9	10
-	^	9	11
-	.	9	10
-	+	10	3
-	+	4	5
-	+	6	23
-	+	6	25
-	+	8	25
-	+	6	23
-	+	7	2
-	+	8	18
-	+	9	10
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/1-for_best_school
-	*	1700779941	0
-	"	4	16
-	^	4	17
-	.	4	16
-	+	4	28
-	+	4	27
-	+	6	0
-	+	4	16
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key.pub
-	*	1700779667	0
-	"	1	0
-
-> ~/alx-system_engineering-devops/0x04-loops_conditions_and_parsing/0-RSA_public_key
-	*	1700779354	0
-	"	1	0
-	^	1	0
