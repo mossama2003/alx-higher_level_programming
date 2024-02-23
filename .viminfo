@@ -18,13 +18,15 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1708115311,,"wq"
+|2,0,1708712424,,"wq"
+:Wq
+|2,0,1708712305,,"Wq"
+:Wq:Wq:wq
+|2,0,1708710896,,"Wq:Wq:wq"
 :q!
 |2,0,1708113318,,"q!"
 :WQ
 |2,0,1708056829,,"WQ"
-:Wq
-|2,0,1708056604,,"Wq"
 :set number
 |2,0,1707852550,,"set number"
 :صض
@@ -48,7 +50,7 @@ $
 
 # Search String History (newest to oldest):
 ?/usr/bin/python3
-|2,1,1708113098,47,"usr/bin/python3"
+|2,1,1708712012,47,"usr/bin/python3"
 ? @$
 |2,1,1708056422,,"@$"
 ?/usr/bin/env bash
@@ -103,230 +105,266 @@ $
 |3,0,36,0,1,0,1706817259,"l"
 
 # File marks:
-'0  1  0  ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
-|4,48,1,0,1708115311,"~/AirBnB_clone_v2/web_flask/templates/7-states_list.html"
-'1  1  0  ~/AirBnB_clone_v2/web_flask/7-states_list.py
-|4,49,1,0,1708115038,"~/AirBnB_clone_v2/web_flask/7-states_list.py"
-'2  1  0  ~/AirBnB_clone_v2/main.py
-|4,50,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
-'3  36  0  ~/AirBnB_clone_v2/main.py
-|4,51,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
-'4  36  0  ~/AirBnB_clone_v2/main.py
-|4,52,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
-'5  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,53,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
-'6  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,54,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
-'7  42  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
-|4,55,42,0,1708056830,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
-'8  36  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,56,36,0,1708056680,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
-'9  27  0  ~/AirBnB_clone_v2/web_flask/2-c_route.py
-|4,57,27,0,1708056605,"~/AirBnB_clone_v2/web_flask/2-c_route.py"
+'0  3  2  ~/AirBnB_clone_v3/test_get_count.py
+|4,48,3,2,1708712424,"~/AirBnB_clone_v3/test_get_count.py"
+'1  3  2  ~/AirBnB_clone_v3/test_get_count.py
+|4,49,3,2,1708712336,"~/AirBnB_clone_v3/test_get_count.py"
+'2  4  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,50,4,0,1708712307,"~/AirBnB_clone_v3/test_get_count.py"
+'3  4  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,51,4,0,1708712307,"~/AirBnB_clone_v3/test_get_count.py"
+'4  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,52,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+'5  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,53,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+'6  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,54,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+'7  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+|4,55,1,0,1708711364,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py"
+'8  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,56,1,0,1708711100,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+'9  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,57,1,0,1708710906,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
 
 # Jumplist (newest first):
--'  1  0  ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
-|4,39,1,0,1708115311,"~/AirBnB_clone_v2/web_flask/templates/7-states_list.html"
--'  1  0  ~/AirBnB_clone_v2/web_flask/7-states_list.py
-|4,39,1,0,1708115038,"~/AirBnB_clone_v2/web_flask/7-states_list.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/7-states_list.py
-|4,39,1,0,1708115038,"~/AirBnB_clone_v2/web_flask/7-states_list.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113318,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  36  0  ~/AirBnB_clone_v2/main.py
-|4,39,36,0,1708113103,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/main.py
-|4,39,1,0,1708113087,"~/AirBnB_clone_v2/main.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-|4,39,1,0,1708059793,"~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  48  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,48,0,1708057246,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/5-number_template.py
-|4,39,1,0,1708057178,"~/AirBnB_clone_v2/web_flask/5-number_template.py"
--'  42  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
-|4,39,42,0,1708056830,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  3  2  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,3,2,1708712424,"~/AirBnB_clone_v3/test_get_count.py"
+-'  3  2  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,3,2,1708712336,"~/AirBnB_clone_v3/test_get_count.py"
+-'  4  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,4,0,1708712307,"~/AirBnB_clone_v3/test_get_count.py"
+-'  4  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,4,0,1708712307,"~/AirBnB_clone_v3/test_get_count.py"
+-'  1  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,1,0,1708712004,"~/AirBnB_clone_v3/test_get_count.py"
+-'  1  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,1,0,1708712004,"~/AirBnB_clone_v3/test_get_count.py"
+-'  1  0  ~/AirBnB_clone_v3/test_get_count.py
+|4,39,1,0,1708712004,"~/AirBnB_clone_v3/test_get_count.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+|4,39,1,0,1708711829,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/file_storage.py
+|4,39,1,0,1708711669,"~/AirBnB_clone_v3/models/engine/file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,1,0,1708711645,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  76  0  ~/AirBnB_clone_v3/models/engine/db_storage.py
+|4,39,76,0,1708711610,"~/AirBnB_clone_v3/models/engine/db_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+|4,39,1,0,1708711364,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+|4,39,1,0,1708711364,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+|4,39,1,0,1708711364,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+|4,39,1,0,1708711364,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py"
+-'  1  0  ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+|4,39,1,0,1708711364,"~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/AirBnB_clone_v3/test_get_count.py
+	*	1708712391	0
+	"	3	2
+	^	3	3
+	.	4	0
+	+	11	66
+	+	1	18
+	+	2	7
+	+	3	1
+	+	3	3
+	+	4	0
+	+	3	0
+	+	4	0
+	+	3	3
+	+	4	0
+
+> ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+	*	1708711710	0
+	"	1	0
+
+> ~/AirBnB_clone_v3/models/engine/file_storage.py
+	*	1708711669	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/AirBnB_clone_v3/models/engine/db_storage.py
+	*	1708711644	0
+	"	1	0
+	^	1	0
+
+> ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+	*	1708711363	0
+	"	1	0
 
 > ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
 	*	1708115310	0
@@ -1076,38 +1114,3 @@ $
 	^	31	1
 	.	31	0
 	+	31	0
-
-> ~/AirBnB_clone/web_static/styles/102-header.css
-	*	1702650232	0
-	"	127	0
-	^	127	1
-	.	127	0
-	+	127	0
-
-> ~/AirBnB_clone/web_static/styles/102-common.css
-	*	1702650200	0
-	"	60	0
-	^	60	1
-	.	60	0
-	+	60	0
-
-> ~/AirBnB_clone/web_static/styles/101-places.css
-	*	1702650141	0
-	"	163	0
-	^	163	1
-	.	163	0
-	+	163	0
-
-> ~/AirBnB_clone/web_static/styles/100-places.css
-	*	1702649968	0
-	"	168	0
-	^	168	1
-	.	168	0
-	+	168	0
-
-> ~/AirBnB_clone/web_static/103-index.html
-	*	1702649916	0
-	"	357	6
-	^	357	7
-	.	357	6
-	+	357	6
